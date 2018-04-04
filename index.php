@@ -52,7 +52,7 @@
 
     <img class="logo" src="http://atomicdocs.io/img/atomic-logo.svg">
 
-    <p>By default, Atomic Docs is set up for Sass. If you are using Less or Sass check out this <a href="http://atomicdocs.io/docs/less-stylus">post</a>.</p>
+    <p>By default, Atomic Docs is set up for Sass. If you are using Less or Sass check out this <a href="http://atomicdocs.io/docs/less-stylus.html">post</a>.</p>
 
     <p>Set up in your php local environment and configure your preprocessor and start
         <a href="atomic-core/?cat=readme">here</a>.</p>
